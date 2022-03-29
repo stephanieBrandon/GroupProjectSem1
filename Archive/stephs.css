@@ -1,0 +1,112 @@
+#topDisp:hover{
+    background-color: #A8ECE7;
+    color: white ;
+    text-shadow: 2px 1px black;
+    transition: .5s;
+}
+#house:hover{
+    background-color: #FDFF8F;
+    border-radius: 30px;
+}
+#topDisp{
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    background-color: #F4BEEE;
+    border-radius: 25px;
+    border:2px solid black;
+    float: right;
+}
+.mainContent{
+    float: left;
+    padding: 10px;
+    margin: 30px;
+    background-color: #FDFF8F;
+    width: 800px;
+}
+.stephsBody{
+    background-color: #A8ECE7;
+    color: black;
+    text-shadow: 2px 2px #D47AE8;
+    font-family: 'Lato', sans-serif;
+     font-family: 'Montserrat', sans-serif;
+     font-family: 'Raleway', sans-serif;
+     font-family: 'Rubik', sans-serif;
+ }
+ .sBstitle{
+     margin: 20px;
+     padding: 10px;
+background-color:#FDFF8F ;
+border-radius: 20px;
+ }
+ .sideSection{
+     width: 300px;
+    padding: 10px;
+    margin: 30px;
+     float: right;
+     background-color: aliceblue;
+
+ }
+ .xDecor{
+    width: 250px;
+    float: right;
+     margin: 13px;
+     padding: 10px;
+     background-color: #FDFF8F;
+ }
+#stephsFooter{
+    
+    float:inherit;
+    bottom: 0px;
+
+ }
+ .stephsImg{
+     border-radius: 25px;
+     padding: 10px;
+     margin:5px;
+     background-color: #D47AE8;
+ }
+ .readableDecor{
+     background-color: white;
+     text-shadow: none;
+     border-radius: 15px;
+ }
+#pathToFrench{
+    width: 580px;
+}
+#brain{
+    float: right;
+}
+#langBen{
+    width: 400px;
+    float: right;
+}
+.cpRight{
+    padding: 10px;
+    margin: 2px;
+    position: relative;
+    text-align: end;
+    width: 900px;
+}
+#benefits{
+    width: 450px;
+    float: left;
+}
+#benefitsImg{
+    float: right;
+}
+.stephsTable{
+    background-color: #F4BEEE;
+color:black;
+font-family: 'Roboto Mono', monospace;
+}
+.error{
+    background-color: #FDFF8F;
+    margin: 15px;
+    border-radius: 20px;
+}
+#infoValid{
+    background-color: #FDFF8F;
+    margin: 15px;
+    border-radius: 20px;
+}
